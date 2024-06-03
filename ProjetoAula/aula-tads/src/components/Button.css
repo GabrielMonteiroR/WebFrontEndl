@@ -1,0 +1,10 @@
+.buttonContainer {
+    background-color: aqua;
+    padding: 8px;
+    font-size: 20px;
+    border-width: 0;
+
+    &:hover {
+        background-color: aquamarine;
+    }
+}
