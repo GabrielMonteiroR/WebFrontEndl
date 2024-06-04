@@ -1,0 +1,33 @@
+.header {
+    padding: 16px;
+    width: 100%;
+    background-color: salmon;
+    margin-bottom: 32px;
+}
+
+.inputContainer {
+    padding: 16px;   
+}
+
+.inputLabel {
+    margin-right: 8px;
+    font-size: 28px;
+    color: lightcoral;
+}
+
+.input {
+    width: 400px;
+    height: 32px;
+    border-color: lightcoral;
+    border-radius: 8px;
+}
+
+.addButton {
+    width: 40px;
+    height: 40px;
+    background-color: lightpink;
+    font-size: 24px;
+    border-color: lightcoral;
+    border-radius: 8px;
+    margin-left: 16px;
+}
