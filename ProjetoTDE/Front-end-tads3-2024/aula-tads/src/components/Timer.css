@@ -1,0 +1,30 @@
+.timer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000; 
+  }
+  
+  .timer {
+    font-size: 3rem;
+    color: #4a148c; 
+    margin-bottom: 20px;
+  }
+  
+  .timer-button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #7b1fa2; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .timer-button:hover {
+    background-color: #4a148c; 
+  }
+  
