@@ -1,0 +1,14 @@
+.cardBody {
+    text-align: center;
+    border-radius: 15px;
+    img {
+        width: 350px;
+    }
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
